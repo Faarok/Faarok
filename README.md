@@ -25,7 +25,7 @@ I work as PHP and C# dev for Cabinet Bedin Bordeaux
   </a>
 </p>
 
-## 💻 Activities
+## ✨ Activities
 
 - 🔭 I’m currently working on PDO for PHP
 - 🌱 I’m currently learning PHP
