@@ -27,8 +27,8 @@ I work as PHP and C# dev for Cabinet Bedin Bordeaux
 
 ## ✨ Activities
 
-- 🔭 I’m currently working on PDO for PHP
-- 🌱 I’m currently learning PHP
+<!-- - 🔭 I’m currently working on PDO for PHP -->
+- 🌱 I’m currently (re)-learning PHP
 - 🎸 I practice guitar and bass
 - 🎮 I love playing RPG video games
 - 📫 How to reach me:
