@@ -1,6 +1,6 @@
 # Hey ! 👋
 
-## 👨‍💼 My work
+## 👨‍💼 About me
 
 I work as PHP and C# dev for Cabinet Bedin Bordeaux
 
