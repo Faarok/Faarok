@@ -2,7 +2,10 @@
 
 ## 👨‍💼 About me
 
-I work as PHP and C# dev for Cabinet Bedin Bordeaux
+I work as PHP dev for Cabinet Bedin Bordeaux. </br>
+Currently, I'm learning Laravel (Blade front-end for now). </br>
+My next learning would probably be JS (in more details), then React. </br>
+My final objective is to be full-stack.
 
 ## 👨‍💻 What I use
 
@@ -25,9 +28,10 @@ I work as PHP and C# dev for Cabinet Bedin Bordeaux
 </p>
 
 ## ✨ Activities
-- 🌱 Currently (re)-learning PHP
+- 🌱 Currently learning Laravel
 - 🎸 Sometimes I practice guitar and bass
 - 🎮 I love playing (J)RPG video games
+- 🇫🇷 I translate Skyrim mods in french
 
 ## 👨‍🎓 TODO
 - Learning JavaScript (in a proper way)
