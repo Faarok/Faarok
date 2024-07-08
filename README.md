@@ -34,9 +34,9 @@ My final objective is to be full-stack.
 - 🇫🇷 I translate Skyrim mods in french
 
 ## 👨‍🎓 TODO
-- Learning JavaScript (in a proper way)
-- Learning ReactJS (at least the base for a back-end dev)
-- Learning Laravel (because Symfony is kind of a pain in the a**)
+~~- Learning JavaScript (in a proper way)~~
+~~- Learning ReactJS (at least the base for a back-end dev)~~
+~~- Learning Laravel (because Symfony is kind of a pain in the a**)~~
 
 ## 🎯 My goal
 - Become fullstack !
