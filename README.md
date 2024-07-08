@@ -28,15 +28,16 @@ My final objective is to be full-stack.
 </p>
 
 ## ✨ Activities
-- 🌱 Currently learning Laravel
+- Currently creating my own framework in PHP / JS
+- ~~🌱 Currently learning Laravel~~
 - 🎸 Sometimes I practice guitar and bass
 - 🎮 I love playing (J)RPG video games
 - 🇫🇷 I translate Skyrim mods in french
 
 ## 👨‍🎓 TODO
-~~- Learning JavaScript (in a proper way)~~
-~~- Learning ReactJS (at least the base for a back-end dev)~~
-~~- Learning Laravel (because Symfony is kind of a pain in the a**)~~
+- Learning JavaScript (in a proper way)
+- Learning ReactJS (at least the base for a back-end dev)
+- Learning Laravel (because Symfony is kind of a pain in the a**)
 
 ## 🎯 My goal
 - Become fullstack !
