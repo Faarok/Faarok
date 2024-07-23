@@ -3,7 +3,8 @@
 ## 👨‍💼 About me
 
 I work as PHP dev for Cabinet Bedin Bordeaux. </br>
-Currently, I'm learning Laravel (Blade front-end for now). </br>
+Currently creating my own framework in PHP / JS
+~~Currently, I'm learning Laravel (Blade front-end for now).~~ </br>
 My next learning would probably be JS (in more details), then React. </br>
 My final objective is to be full-stack.
 
