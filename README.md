@@ -21,7 +21,7 @@ My final objective is to be full-stack.
 
 ## 💾 GitHub stats
 
-<p align=center>
+<p>
   <a href="https://github.com/Faarok">
     <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=Faarok&show_icons=true&theme=moltack">
     <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faarok&langs_count=8&layout=compact&show_icons=true&theme=moltack">
