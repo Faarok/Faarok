@@ -3,9 +3,7 @@
 ## 👨‍💼 About me
 
 I work as PHP dev for Cabinet Bedin Bordeaux. </br>
-Currently creating my own framework in PHP / JS
-~~Currently, I'm learning Laravel (Blade front-end for now).~~ </br>
-My next learning would probably be JS (in more details), then React. </br>
+I'm creating something with Express and React atm (I guess). </br>
 My final objective is to be full-stack.
 
 ## 👨‍💻 What I use
@@ -29,16 +27,17 @@ My final objective is to be full-stack.
 </p>
 
 ## ✨ Activities
-- Currently creating my own framework in PHP / JS
+- Creating something with JS and React (I guess)
+- ~~Currently creating my own framework in PHP / JS~~
 - ~~🌱 Currently learning Laravel~~
 - 🎸 Sometimes I practice guitar and bass
 - 🎮 I love playing (J)RPG video games
 - 🇫🇷 I translate Skyrim mods in french
 
 ## 👨‍🎓 TODO
-- Learning JavaScript (in a proper way)
-- Learning ReactJS (at least the base for a back-end dev)
-- Learning Laravel (because Symfony is kind of a pain in the a**)
+- Learning JavaScript (in a proper way) → Doing it atm !
+- Learning ReactJS
+- Learning Laravel (because I hate Symfony ngl)
 
 ## 🎯 My goal
 - Become fullstack !
