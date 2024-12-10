@@ -13,7 +13,7 @@ Mon objectif final étant de devenir full-stack (color en CSS ne suffit pas !)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)&nbsp;
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Edge](https://custom-icon-badges.demolab.com/badge/Edge-e9e5d6?style=for-the-badge&logoColor=white&logo=microsoft-edge)
 
 ## ✨ Loisirs
 - 🎮 Jeux vidéos, les RPG majoritairement
