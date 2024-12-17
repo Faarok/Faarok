@@ -22,7 +22,7 @@ Mon objectif final étant de devenir full-stack (color en CSS ne suffit pas !)
 
 ## 👨‍🎓 TODO
 - Apprendre JavaScript *(en cours avec Express en back, React en front)*
-- Apprendre Laravel *(je n'aime pas Symfony, mais j'en ai fait un peu)*
+- Apprendre Laravel *(je n'aime pas Symfony, mais j'en ai un peu fait)*
 
 ## 📫 Me contacter
 <p align="center">
